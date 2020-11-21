@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React App project for practice
+
+## Introduction
+
+The project scope is to create a React app for very simple Spofify playlist management (addition, removal). This project's aim is to pratice React class components.
+
+* connect the app to spotify api
+* search for tracks via spotify api
+* add and remove search results to user's playlist
+
+## Technologies used
+
+JavaScript, React, 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
